@@ -1,0 +1,20 @@
+﻿Analyzing bank_fan...                                           
+
+warning - Unused import: '../widgets/widgets.dart' - lib\screens\bill_payment_screen.dart:3:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\bill_payment_screen.dart:71:35 - deprecated_member_use
+  error - The named parameter 'children' isn't defined - lib\screens\dashboard_screen.dart:78:9 - undefined_named_parameter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\dashboard_screen.dart:112:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\dashboard_screen.dart:145:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:44:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\topup_screen.dart:69:62 - deprecated_member_use
+  error - The argument type 'void Function()?' can't be assigned to the parameter type 'VoidCallback'.  - lib\screens\topup_screen.dart:90:26 - argument_type_not_assignable
+   info - Unnecessary braces in a string interpolation - lib\screens\topup_screen.dart:97:42 - unnecessary_brace_in_string_interps
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\transfer_screen.dart:113:48 - deprecated_member_use
+  error - The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  - lib\theme\app_theme.dart:24:18 - argument_type_not_assignable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\theme\app_theme.dart:28:35 - deprecated_member_use
+  error - There's no constant named 'between' in 'MainAxisAlignment' - lib\widgets\widgets.dart:93:46 - undefined_enum_constant
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\widgets.dart:136:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\widgets.dart:180:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\widgets.dart:192:36 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\widgets.dart:193:37 - deprecated_member_use
+
